@@ -148,7 +148,7 @@ Explanation: Renames an IAM user.
 `aws iam create-access-key --user-name myuser`
 
 Explanation: Creates an access key for an IAM user. 
-Time for Bonus 😍
+
 ### AWSCLI Command: aws iam update-access-key
 
 `aws iam update-access-key --access-key-id ABCDEFG --status Inactive`
